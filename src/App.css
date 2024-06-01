@@ -12,6 +12,9 @@
   justify-content: center;
   font-size: 25px;
 }
+h2 {
+  text-align: center;
+}
 .content div {
   width: 60%;
   display: flex;
